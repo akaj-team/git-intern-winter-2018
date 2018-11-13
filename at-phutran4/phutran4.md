@@ -23,5 +23,21 @@ Pull Request (viết tắt là PR) sẽ để cho bạn nói với người khá
 	* **B3**: Chọn branch bạn muốn merged sử dụng “Head branch” dropdown. Bạn nên để trường còn lại như vậy, trừ khi bạn làm việc từ remote branch. Trong trường hợp đó, chỉ cần chắc chắn rằng base repo và base branch được đặt đúng.
 	* **B4**: Nhập các tiêu đề và mô tả cho việc pull request.
 	* **B5**: Click vào “Send pull request” để hoàn tất quá trình tạo pull request. Cuối cùng bạn có thể thấy open pull request.
+## Câu 6: 
+>Những thứ hôm nay đã được học
+* Khởi tạo: `git init`
+* Clone: `git clone <link>`
+* Push:
+	* **B1**: `git add <filename>` hoặc `git add .`
+	* **B2**: `git commit -m "message"`
+	* **B3**: `git push origin <branchName>`
+* Pull: `git pull origin`
+* Tạo nhánh: `git checkout -b <branchName>`
+* Xem đang ở nhánh nào: `git branch`
+* Di chuyển đến một nhánh: `git checkout <brannchName>`
+* Tạo key SSH
+* `git remote add <name> <link>`
+* `git remote remove name cần xóa`
+* Xem gán như thế nào: `git remote -v`  
 
 
