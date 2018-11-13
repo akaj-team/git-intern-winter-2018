@@ -23,9 +23,9 @@ Có lại loại repository đó là local repository và remote repository.
 ### Bài tập 4: Các bước để push code lên repository server?
 
 Có **3** bước: 
-* Bước 1: git add <ten-file> hoặc git add . (thêm toàn bộ file nằm trong thư mục)
-* Bước 2: git commit -m "message"
-* Bước 3: git push origin <name-branch>
+* Bước 1: `git add <ten-file>` hoặc `git add .` (thêm toàn bộ file nằm trong thư mục)
+* Bước 2: `git commit -m "message"`
+* Bước 3: `git push origin <name-branch>`
 
 
 ### Bài tập 5: Pull Request là gì? Làm cách nào để tạo PR?
