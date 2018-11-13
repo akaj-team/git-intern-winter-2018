@@ -1,5 +1,5 @@
 ## Câu 2:
->So sánh giữa git commit -m "Message" và git commit -am "Message"<space><space>
+>So sánh giữa git commit -m "Message" và git commit -am "Message" <space><space>
 **git commit -am "Message"** có thêm chức năng add nữa
 ## Câu 3:
 >Repository là gì
@@ -9,7 +9,7 @@ Có 2 loại repository đó là **local repository** và **remote repository**.
 >-**Remote repository**: Là repo được cài đặt trên server chuyên dụng, điển hình hiện nay là Github.
 ## Câu 4:
 >Các bước để push code lên repository server:
-**B1**: `pull` về nếu dữ liệu có sự thay ₫ổi
+**B1**: `pull` về nếu dữ liệu có sự thay ₫ổi <space><space>
 **B2**: `git add .` hoặc `git add filename`
 **B3**: `git commit -m "mesage"`
 **B4**: `git push origin branchName`
