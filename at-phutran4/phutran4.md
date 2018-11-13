@@ -1,5 +1,5 @@
 ## Câu 2:
->So sánh giữa git commit -m "Message" và git commit -am "Message"
+>So sánh giữa git commit -m "Message" và git commit -am "Message"<space><space>
 **git commit -am "Message"** có thêm chức năng add nữa
 ## Câu 3:
 >Repository là gì
