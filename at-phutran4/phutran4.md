@@ -1,5 +1,5 @@
 ## Câu 2:
->So sánh giữa git commit -m "Message" và git commit -am "Message" <space><space>
+>So sánh giữa git commit -m "Message" và git commit -am "Message" 
 + **git commit -am "Message"** có thêm chức năng add nữa
 ## Câu 3:
 >Repository là gì
@@ -18,8 +18,7 @@
 + **Pull Request**:
 Pull Request (viết tắt là PR) sẽ để cho bạn nói với người khác về các thay đổi bạn đã đẩy lên kho Github (Github repository). Một khi pull request được gửi, người nào quan tâm có thể review lại các thay đổi, hoặc thảo luận các sửa đổi tiềm năng, và có thể theo đó đẩy tiếp các commit của họ nếu cần thiết.
 + **Cách tạo PR**:
-**B1**: Để tạo pull request, bạn phải thay đổi committed tới new branch.
-**B2**: Hãy vào repository page trên github. Và click vào nút “Pull Request” trong repo header.
+**B1**: Để tạo pull request, bạn phải thay đổi committed tới new branch.<space><space>**B2**: Hãy vào repository page trên github. Và click vào nút “Pull Request” trong repo header.
 **B3**: Chọn branch bạn muốn merged sử dụng “Head branch” dropdown. Bạn nên để trường còn lại như vậy, trừ khi bạn làm việc từ remote branch. Trong trường hợp đó, chỉ cần chắc chắn rằng base repo và base branch được đặt đúng.
 **B4**: Nhập các tiêu đề và mô tả cho việc pull request.
 **B5**: Click vào “Send pull request” để hoàn tất quá trình tạo pull request. Cuối cùng bạn có thể thấy open pull request.
