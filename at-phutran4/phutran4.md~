@@ -3,10 +3,10 @@
 + **git commit -am "Message"** có thêm chức năng add nữa
 ## Câu 3:
 >Repository là gì
-+ Repository là nơi chứa tất cả mã nguồn cho một dự án được quản lý bởi Git.
-+ Có 2 loại repository đó là **local repository** và **remote repository**.
-+ **Local repository**: Là repo được cài đặt trên máy tính của lập trình viên, repo này sẽ đồng bộ hóa với remote repo bằng các lệnh của git.
-+ **Remote repository**: Là repo được cài đặt trên server chuyên dụng, điển hình hiện nay là Github.
+* Repository là nơi chứa tất cả mã nguồn cho một dự án được quản lý bởi Git.
+* Có 2 loại repository đó là **local repository** và **remote repository**.
+	* **Local repository**: Là repo được cài đặt trên máy tính của lập trình viên, repo này sẽ đồng bộ hóa với remote repo bằng các lệnh của git.
+	* **Remote repository**: Là repo được cài đặt trên server chuyên dụng, điển hình hiện nay là Github.
 ## Câu 4:
 >Các bước để push code lên repository server:
 + **B1**: `pull` về nếu dữ liệu có sự thay ₫ổi
