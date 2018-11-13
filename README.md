@@ -1,7 +1,9 @@
-# Repo for Ruby Internship Winter 2018
+# Repo for Android Internship Winter 2018
 
 ### 1. Nội dung
+
 Đây là nơi chứa các bài tập của các bạn intern đợt thực tập mùa đông xuân 2018
+
 Các bạn thực tập sau:
 - 
 
