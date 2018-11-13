@@ -1,9 +1,8 @@
 # Trương Văn Định Team Android
 
-## Bài tập 2:
-
-So sánh giữa git commit -m "Message" và git commit -am "Message".
-
+## Bài tập 2:So sánh giữa git commit -m "Message" và git commit -am "Message"
+   + git commit -m "Message": chỉ commit
+   + git commit -am "Message": vừa add vừa commit
 ## Bài tập 3:Repository là gì?
    + **Repository** hay còn gọi là Repo, dịch ra tiếng Việt có nghĩa là kho, đây chính là nơi chứa tất cả mã nguồn cho một dự án được quản lý bởi Git. Bạn cũng có thể hiểu một cách khác là Repository chính khai báo thư mục chứa dự án của bạn trên local hoặc remote. Môi repo sẽ có hai cấu trúc dữ liệu chính đó là Object store và Index được lưu trữ ẩn trong thư mục .git
 
