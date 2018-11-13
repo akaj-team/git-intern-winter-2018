@@ -1,6 +1,6 @@
 ## Bài tập 1: Tìm hiểu về Markdown
 
-• Cú pháp viết markdown
+* Cú pháp viết markdown
    https://marxi.co/
 
 ## Bài tập 2: So sánh giữa git commit -m "Message" và git commit -am "Message"
@@ -11,7 +11,7 @@
 
 ## Bài tập 3: Repository là gì?
 
-	>**Repository** (nhà kho) hay được gọi tắt là Repo đơn giản là nơi chứa/cơ sở dữ liệu (database) tất cả những thông tin cần thiết để duy trì và quản lý các sửa đổi và lịch sử của dự án.
+	**Repository** (nhà kho) hay được gọi tắt là Repo đơn giản là nơi chứa/cơ sở dữ liệu (database) tất cả những thông tin cần thiết để duy trì và quản lý các sửa đổi và lịch sử của dự án.
 
 	Trong Repo có 2 cấu trúc dữ liệu chính là Object Store và Index. Tất cả dữ liệu của Repo đều được chứa trong thư mục bạn đang làm việc dưới dạng folder ẩn có tên là .git (không có phần tên trước dấu chấm).
 
