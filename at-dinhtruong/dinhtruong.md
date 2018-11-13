@@ -13,10 +13,10 @@
 
 
 ## Bài tập 4: Các bước để push code lên repository server?
-   **Bước 1**: Pull dữ liệu về nếu có thay đổi <space><space>
-   **Bước 2**: git add . hoặc git add file-name <space><space>
-   **Bước 3**: git commit -m "message"<space><space>
-   **Bước 4**: git push origin branch-name <space><space>
+   * **Bước 1**: Pull dữ liệu về nếu có thay đổi
+   * **Bước 2**: git add . hoặc git add file-name
+   * **Bước 3**: git commit -m "message"
+   * **Bước 4**: git push origin branch-name
 
 ## Bài tập 5: Pull Request là gì? Làm cách nào để tạo PR?
    * Khi người dùng khác tham gia phát triển phần mềm và đã phát triển xong một tính năng, họ muốn merge tính năng của họ vào phần mềm của mình thì lúc này họ sẽ gửi một Pull request/Merge request để mình chọn chấp nhận hay không.
