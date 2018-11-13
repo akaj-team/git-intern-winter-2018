@@ -5,9 +5,9 @@
 
 ## Bài tập 2: So sánh giữa git commit -m "Message" và git commit -am "Message"
 
-| git commit -m | git commit -am |
-| :-------- | --------:|
-| Chỉ commit | vừa add vừa commit |
+| git commit -m |    git commit -am   |
+| :--------     |            --------:|
+|   Chỉ commit   | vừa add vừa commit |
 
 ## Bài tập 3: Repository là gì?
 
