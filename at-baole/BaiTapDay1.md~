@@ -1,13 +1,9 @@
 ## Bài tập 1: Tìm hiểu về Markdown
 
-* Cú pháp viết markdown
-   https://marxi.co/
+• Cú pháp viết markdown
+   [marxi.co]
 
 ## Bài tập 2: So sánh giữa git commit -m "Message" và git commit -am "Message"
-
-| git commit -m |    git commit -am   |
-| :--------     |            --------:|
-|   Chỉ commit   | vừa add vừa commit |
 
 ## Bài tập 3: Repository là gì?
 
@@ -32,4 +28,3 @@
 Cuối cùng click vào “Send pull request” để hoàn tất quá trình tạo pull request. Cuối cùng bạn có thể thấy open pull request.
 
 ## Bài tập 6: Viết daily report bằng markdown
-
