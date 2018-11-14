@@ -16,7 +16,7 @@ Cả 2 câu lệnh đều được tạo ra để tích hợp những thay đổ
 
 ## Bài 2: Trường hợp nào thì `conflict` xảy ra?
 
-- Khi 2 hoặc nhiều nhánh cùng sửa 1 file, sau đó `pull request`, rồi khi `merge` các `request` lại với nhau sẽ xảy ra `conflict` (xung đột).
+- Khi 2 hoặc nhiều nhánh cùng sửa 1 file, sau đó `pull request`, rồi khi `merge` các `request` lại với nhau sẽ xảy ra `conflict` (xung đột) do hệ thống không biết được sẽ dùng phiên bản nào.
 
 ## Bài 3: Cách xử lý conflict.
 
