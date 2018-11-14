@@ -1,5 +1,4 @@
-## Bài 1:
-So sánh giữa `git merge` và `git rebase`
+## Bài 1: So sánh giữa `git merge` và `git rebase`
 
 #### Giống nhau:
 Cả 2 câu lệnh đều được tạo ra để tích hợp những thay đổi từ 1 nhánh vào 1 nhánh khác.
@@ -15,16 +14,13 @@ Cả 2 câu lệnh đều được tạo ra để tích hợp những thay đổ
 - Câu lệnh `git rebase` sẽ bê toàn bộ branch feature lên đầu của branch master. Nhưng thay vì dùng một commit merge, nó sẽ viết lại lịch sử của project bằng cách tạo các commit hoàn toàn mới cho mỗi commit ở nhánh ban đầu.
 - Lợi ích chính của việc rebasing này là lịch sử project sẽ gọn gàng & sạch sẽ hơn. Đầu tiên, nó sẽ loại bỏ những commit merge không cần thiết mà được sinh ra bởi git merge.
 
-## Bài 2:
-Trường hợp nào thì `conflict` xảy ra.
+## Bài 2: Trường hợp nào thì `conflict` xảy ra?
 
 - Khi 2 hoặc nhiều nhánh cùng sửa 1 file, sau đó `pull request`, rồi khi merge các request lại với nhau sẽ xảy ra `conflict` (xung đột).
 
-## Bài 3:
+## Bài 3: Cách xử lý conflict.
 
-Cách xử lý `conflict`
-
-Để xử lý `conflict`, ta làm theo các bước sau:
+#### Để xử lý `conflict`, ta làm theo các bước sau:
 1. `Pul origin master` về nhánh đang làm việc để thấy được những chỉnh sửa vừa xảy ra trên file.
 2. Chỉnh sửa lại sao cho phù hợp.
 3. `git add`, `git commit`, `git push origin <tên nhánh đang làm việc>`
