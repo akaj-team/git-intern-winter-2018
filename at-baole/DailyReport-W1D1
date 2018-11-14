@@ -1,0 +1,18 @@
+# Daily Report - Week 1 Day 1
+
+Learn about Git:
+
+- Repository: kho lưu
+- Branch: nhánh (để không ảnh hưởng đến master)
+- Git init (khởi tạo git khi chưa có source code)
+- Git clone (copy source code đã có trên serve về máy)
+- Git add (thông báo sẵn sàng thêm 1 file nào đó)
+- Git commit (nội dung của commit: thêm, sửa, xóa, cập nhật)
+- Git pull (lấy nhánh từ server về)
+- Git push (đẩy nhánh lên server)
+- Pull request (thông báo cho người khác biết là mình gửi yêu cầu lên server: thêm, sửa, xóa, cập nhật file)
+- Git remote
+- Git checkout -b (tạo nhánh mới)
+- Git checkout <tên nhánh> (chuyển đến nhánh)
+- SSH 
+
