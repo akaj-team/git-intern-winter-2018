@@ -1,4 +1,7 @@
 
+# Nguyen Trung Kien Asian tech
+
+
 
 # Nguyen Trung Kien
 
@@ -17,3 +20,4 @@ Truong Van Dinh
 ##AsianTech 
 
 Qua kho
+## Tran Dinh Phu
