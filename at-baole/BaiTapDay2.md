@@ -34,9 +34,9 @@ Cả 2 câu lệnh đều được tạo ra để tích hợp những thay đổ
 
 ## Một số từ khoá cần tìm hiểu
 
-• Git stash: lưu vào vùng nhớ đệm là ngăn xếp
-• Git rebase: tích hợp những thay đổi từ 1 nhánh vào 1 nhánh khác. Tạo các commit hoàn toàn mới cho mỗi commit ở nhánh ban đầu
-• Gộp commit: tích hợp những thay đổi từ 1 nhánh vào 1 nhánh khác. Có thêm 1 commit merge mỗi lần bạn cần tích hợp những thay đổi từ các nhánh khác vào nó
-• Git cherry-pick: `cherry-pick` thực chất là một cách để checkout một `commit` tại `branch` nhất định về `branch` hiện tại. Hay nói một cách dân dã thì `cherry-pick` dùng để bưng các thay đổi trong một `commit` trên một nhánh nào đó áp dụng về nhánh hiện tại.
-• Git tag: Liệt kê các tag hiện có trong Git.
+- Git stash: lưu vào vùng nhớ đệm là ngăn xếp.
+- Git rebase: tích hợp những thay đổi từ 1 nhánh vào 1 nhánh khác. Tạo các commit hoàn toàn mới cho mỗi commit ở nhánh ban đầu.
+- Gộp commit: tích hợp những thay đổi từ 1 nhánh vào 1 nhánh khác. Có thêm 1 commit merge mỗi lần bạn cần tích hợp những thay đổi từ các nhánh khác vào nó.
+- Git cherry-pick: `cherry-pick` thực chất là một cách để checkout một `commit` tại `branch` nhất định về `branch` hiện tại. Hay nói một cách dân dã thì `cherry-pick` dùng để bưng các thay đổi trong một `commit` trên một nhánh nào đó áp dụng về nhánh hiện tại.
+- Git tag: Liệt kê các tag hiện có trong Git.
 

@@ -20,7 +20,7 @@ Cả 2 câu lệnh đều được tạo ra để tích hợp những thay đổ
 
 ## Bài 3: Cách xử lý conflict.
 
-Để xử lý `conflict`, ta làm theo các bước sau:
+#### Để xử lý `conflict`, ta làm theo các bước sau:
 1. `Pul origin master` về nhánh đang làm việc để thấy được những chỉnh sửa vừa xảy ra trên file.
 2. Chỉnh sửa lại sao cho phù hợp.
 3. `git add`, `git commit`, `git push origin <tên nhánh đang làm việc>`
