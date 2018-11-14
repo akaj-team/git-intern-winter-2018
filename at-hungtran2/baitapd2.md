@@ -20,8 +20,8 @@ Cả 2 câu lệnh đều được tạo ra để tích hợp những thay đổ
 
 #### Một số từ khoá cần tìm hiểu
 
-• `Git stash` : lưu lại thay đổi vào ngăn xếp
-• `Git rebase`: là một cách thuận biện để áp dụng lại những commit mới trong một branch trên đỉnh của một branch khác.
-• `Gộp commit`: dùng `git rebase` để gộp commit
-• `Git cherry-pick`: là một cách để checkout một commit tại branch nhất định về branch hiện tại
-• `Git tag`: liệt kê các tag hiện có trong g
+- `Git stash` : lưu lại thay đổi vào ngăn xếp
+- `Git rebase`: là một cách thuận biện để áp dụng lại những commit mới trong một branch trên đỉnh của một branch khác.
+- `Gộp commit`: dùng `git rebase` để gộp commit
+- `Git cherry-pick`: là một cách để checkout một commit tại branch nhất định về branch hiện tại
+- `Git tag`: liệt kê các tag hiện có trong git
