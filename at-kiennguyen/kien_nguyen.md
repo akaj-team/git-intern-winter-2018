@@ -1,4 +1,5 @@
 
+
 # Nguyen Trung Kien
 
 # Anh Kien dep trai
@@ -9,3 +10,10 @@ Truong Van Dinh
 ##AsianTech 
 ## Le Quoc Bao
 
+# Nguyen Trung Kien
+Truong Van Dinh
+
+# Tran Van Hung
+##AsianTech 
+
+Qua kho
